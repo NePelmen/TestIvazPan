@@ -1,0 +1,14 @@
+#: locale=ru
+
+## Медиа
+
+### Заголовок
+panorama_C0D8FDE6_CB4C_FE17_41A4_05705ACB06CD.label = Panorams_Gp7_r.0010
+panorama_C0E1E73A_CB4C_8A7F_41B5_A9B530B8D70E.label = Panorams_Gp7_r.0011
+
+## Тур
+
+### Заголовок
+tour.name = Без названия 1
+
+### Описание
